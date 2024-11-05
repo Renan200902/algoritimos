@@ -1,3 +1,4 @@
+img/cenario-passo0.png
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
