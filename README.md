@@ -30,11 +30,10 @@
         <div class="passo" id="passo-3">
             <p>No topo do Pico da Tijuca, você encontra uma antiga inscrição apontando que a próxima pista está
                 localizada no Amazonas.</p>
-            img/cenario-passo0.png
             <button class="btn-proximo" data-proximo="7">Seguir para o Amazonas</button>
         </div>
         <div class="passo" id="passo-4">
-            <img src="img/cenario-passo4-voltar-casa.png" alt="imagem voltando para casa e desitindo da aventura">
+            <img src="img/cenario-passo4-voltar-casa.png" alt="img/cenario-passo0.png">
             <p>Você decide que a aventura é grande demais e volta para casa, mas sempre se pergunta o que teria
                 encontrado.</p>
         </div>
